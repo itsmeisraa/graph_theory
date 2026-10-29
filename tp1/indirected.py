@@ -22,5 +22,5 @@ nx.draw(
     font_weight="bold",
     arrows=True
 )
-plt.title("Mon graphe")
+
 plt.show()
