@@ -1,6 +1,6 @@
 import networkx as nx
 
-#Undirected Graph
+#Undirected Graphs
 G_undirected = nx.Graph()
 
 G_undirected.add_nodes_from(["a", "b", "c", "d"])
